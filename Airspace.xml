@@ -95,6 +95,8 @@
         <SID Name="ODUM1R" />
         <SID Name="PONA1R" />
         <SID Name="UVUT1R" />
+        <STAR Name="AVKO1B" ApproachName="RNP" />
+        <STAR Name="AVKO1D" ApproachName="RNP" />
         <STAR Name="BIGE2B" ApproachName="RNP" />
         <STAR Name="BIGE2D" ApproachName="RNP" />
         <STAR Name="DORO2B" ApproachName="RNP" />
@@ -121,6 +123,7 @@
         <SID Name="ODUM1S" />
         <SID Name="PONA1S" />
         <SID Name="UVUT1S" />
+        <STAR Name="AVKO1C" ApproachName="RNP" />
         <STAR Name="BIGE2C" ApproachName="RNP" />
         <STAR Name="DORO2C" ApproachName="RNP" />
         <STAR Name="ISDO2C" ApproachName="RNP" />
@@ -8373,6 +8376,15 @@ CH VOR
     </STAR>
     <STAR Name="KETU1B" Airport="NFTF" Runways="29">
       <Route Runway="29">KETUP/OLPER</Route>
+    </STAR>
+    <STAR Name="AVKO1B" Airport="NSFA" Runways="08">
+      <Route Runway="08">AVKOL/TAFUA</Route>
+    </STAR>
+    <STAR Name="AVKO1C" Airport="NSFA" Runways="26">
+      <Route Runway="26">AVKOL/MAUGA</Route>
+    </STAR>
+    <STAR Name="AVKO1D" Airport="NSFA" Runways="08">
+      <Route Runway="08">AVKOL/DINAR</Route>
     </STAR>
     <STAR Name="BIGE2B" Airport="NSFA" Runways="08">
       <Route Runway="08">BIGEK/TAFUA</Route>
