@@ -7817,6 +7817,7 @@ CH VOR
     <Point Name="YN903" Type="Fix">-003625.650+1665921.199</Point>
     <Point Name="YOGIT" Type="Fix">-375052.102+1751505.400</Point>
     <Point Name="YPONT" Type="Fix">-442947.101+1674858.201</Point>
+    <Point Name="YSWS" Type="Fix">-335327.000+1504306.000</Point>
     <Point Name="YTUNA" Type="Fix">-462454.749+1683538.191</Point>
     <Point Name="ZADMO" Type="Fix">-895304.549-1514148.548</Point>
     <Point Name="ZEDEE" Type="Fix">-352139.488+1735226.141</Point>
